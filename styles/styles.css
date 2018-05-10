@@ -1,0 +1,44 @@
+body, a {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: beige;
+    background-color: black;
+}
+
+a:hover {
+    color: palegreen;
+}
+
+.maincontainer {
+/*    border: 1px solid black;*/
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 12vh;
+}
+
+.mainnav {
+    margin: auto;
+}
+
+table td{
+/*    border: 1px solid black;*/
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+}
+
+table img {
+    width: 30px;
+}
+
+table {
+    margin: auto;
+}
+
+.left {
+    width: 50%;
+    padding: 50px;
+}

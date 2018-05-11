@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php 
+include "topnav.php"
+?>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -9,7 +12,7 @@
     </head>
 
     <body>
-        <div class="maincontainer">
+        <div class="content">
             <div class="left">
                 <p>
                     My name is Andi Tangguh Kippi Nusantara. I am an Informatics college student of Parahyangan Catholic
@@ -18,9 +21,9 @@
                     trying to improve my programming skills and quality of my works.
                 </p>
             </div>
-            
+
             <div class="right">
-            
+
             </div>
         </div>
     </body>

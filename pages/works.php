@@ -9,6 +9,9 @@
     </head>
 
     <body>
+        <?php 
+        include "topnav.php"
+        ?>
 
     </body>
 </html>

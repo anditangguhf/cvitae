@@ -14,8 +14,13 @@ a:hover {
     border-radius: 10px;
     margin: auto;
     text-align: center;
-    margin-top: 15%;
     margin-bottom: 12vh;
+}
+
+.content {
+    margin:auto;
+    text-align: justify;
+    margin-top: 15vh;
 }
 
 .mainnav {

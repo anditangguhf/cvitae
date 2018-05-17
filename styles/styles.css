@@ -9,6 +9,21 @@ a:hover {
     color: palegreen;
 }
 
+button {
+    background: none;
+    border: none;
+    color: beige;
+    padding:8px;
+    width: 115px;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: palegreen;
+    color: black;
+    cursor: pointer;
+}
+
 .maincontainer {
 /*    border: 1px solid black;*/
     border-radius: 10px;

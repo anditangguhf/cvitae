@@ -14,6 +14,7 @@ body {
     background-image: url(../img/bg/bgclouds.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 button {

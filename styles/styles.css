@@ -2,11 +2,10 @@ body, a {
     font-family: sans-serif;
     text-decoration: none;
     color: beige;
-    background-color: black;
 }
 
-a:hover {
-    color: palegreen;
+body {
+  background-color: black;
 }
 
 button {
@@ -33,13 +32,26 @@ button:hover {
 }
 
 .content {
-    margin:auto;
     text-align: justify;
     margin-top: 15vh;
+    /* border: 1px solid white; */
 }
 
 .mainnav {
     margin: auto;
+}
+
+.topnav ul {
+  list-style-type: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  overflow: hidden;
+}
+
+.topnav li {
+  float: left;
+  padding-left: 7px;
+  padding-right: 7px;
 }
 
 table td{
